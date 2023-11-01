@@ -18,8 +18,3 @@ You can access the live application at: [https://20moviedb.netlify.app/](https:/
 - [Node.js](https://nodejs.org/) installed.
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) for package management.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone link_to_your_repository_here
