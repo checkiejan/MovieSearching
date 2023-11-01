@@ -1,8 +1,5 @@
 # MovieSearching
 
-![MovieDB Search Screenshot](screenshot_link_here.png)  
-*Insert a screenshot of your application for better visual representation*
-
 MovieDB Search is a React-based web application that allows users to search and view details of their favorite movies. The app is deployed on Netlify and uses a movie database API to fetch movie details.
 
 ## Features
